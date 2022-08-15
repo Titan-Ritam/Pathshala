@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Pathshala/static/css/main.1e000f1a.chunk.css",
+    "main.js": "/Pathshala/static/js/main.b8f21830.chunk.js",
+    "main.js.map": "/Pathshala/static/js/main.b8f21830.chunk.js.map",
+    "runtime-main.js": "/Pathshala/static/js/runtime-main.e1e625ee.js",
+    "runtime-main.js.map": "/Pathshala/static/js/runtime-main.e1e625ee.js.map",
+    "static/js/2.81777ba6.chunk.js": "/Pathshala/static/js/2.81777ba6.chunk.js",
+    "static/js/2.81777ba6.chunk.js.map": "/Pathshala/static/js/2.81777ba6.chunk.js.map",
+    "static/js/3.5e7dc7db.chunk.js": "/Pathshala/static/js/3.5e7dc7db.chunk.js",
+    "static/js/3.5e7dc7db.chunk.js.map": "/Pathshala/static/js/3.5e7dc7db.chunk.js.map",
+    "index.html": "/Pathshala/index.html",
+    "static/css/main.1e000f1a.chunk.css.map": "/Pathshala/static/css/main.1e000f1a.chunk.css.map",
+    "static/js/2.81777ba6.chunk.js.LICENSE.txt": "/Pathshala/static/js/2.81777ba6.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/Pathshala/static/media/bg2.72ba8986.png",
+    "static/media/App.css": "/Pathshala/static/media/bg2.9e8d3f2f.jpg",
+    "static/media/Contact.css": "/Pathshala/static/media/con_bg.0e229407.jpg",
+    "static/media/kaushik.dd31d5d4.jpg": "/Pathshala/static/media/kaushik.dd31d5d4.jpg",
+    "static/media/rahul.a877b226.jpg": "/Pathshala/static/media/rahul.a877b226.jpg",
+    "static/media/ritam.2da38e80.jpg": "/Pathshala/static/media/ritam.2da38e80.jpg",
+    "static/media/sandi.d3b7a6d7.jpg": "/Pathshala/static/media/sandi.d3b7a6d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e625ee.js",
+    "static/js/2.81777ba6.chunk.js",
+    "static/css/main.1e000f1a.chunk.css",
+    "static/js/main.b8f21830.chunk.js"
+  ]
+}
